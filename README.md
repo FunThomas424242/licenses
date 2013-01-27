@@ -1,10 +1,11 @@
 licenses project
 ================
 
-Ein Projekt zur Katlogisierung von Softwarelizenzen. Ziel des Projektes ist es, dem Nutzer/Entwickler ein Mittel
+Ein Projekt zur Katalogisierung von Softwarelizenzen. Ziel des Projektes ist es, dem Nutzer/Entwickler ein Mittel
 an die Hand zu geben um eine Einbindung der Software von Drittanbietern bewerten zu können.
 
 Das Projekt orientiert sich dabei an einem 3-stufigen Modell:
+
 1. Aufbau einer Adjazenzmatrix mit der einzelne Verwendungsmöglichkeiten je Lizenz entsprechenden Bedingungen zugeordnet werden.
 2. Aufbau eines Werkzeuges zur Bestimmung aller expliziten und impliziten Abhängigkeiten der zu bewertenden Software hinsichtlich 
 der Lizenzen der Komponenten von denen sie transitiv abhängig ist.
