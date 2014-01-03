@@ -79,8 +79,34 @@ Contributor ist jede natürliche oder juristische Person die das Programm vertre
 
 
 
+5. Garantie
+-----------
+
+> 5. NO WARRANTY
+> 
+> EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN
+> "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+> IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE,
+> NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each
+> Recipient is solely responsible for determining the appropriateness of using and
+> distributing the Program and assumes all risks associated with its exercise of
+> rights under this Agreement , including but not limited to the risks and costs
+> of program errors, compliance with applicable laws, damage to or loss of data,
+> programs or equipment, and unavailability or interruption of operations.
+
+Keine Garantie! Weder explizit noch implizit weder für Benutzung noch Nutzen. 
+Keine Verantwortung hinsichtlich verursachter Fehler oder Datenverluste oder Ausfällen.
 
 
+> 7. GENERAL
+> 
+> If any provision of this Agreement is invalid or unenforceable under applicable
+> law, it shall not affect the validity or enforceability of the remainder of the
+> terms of this Agreement, and without further action by the parties hereto, such
+> provision shall be reformed to the minimum extent necessary to make such
+> provision valid and enforceable.
+
+Salvatorische Klausel
 
 
 

@@ -1,29 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Thomas Schubert</meta:initial-creator><meta:creation-date>2013-01-27T15:36:19.51</meta:creation-date><dc:date>2013-01-27T16:00:57.34</dc:date><dc:creator>Thomas Schubert</dc:creator><meta:editing-duration>PT20M27S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/3.6$Windows_x86 LibreOffice_project/2ef5aff-a6fb0ff-166bdff-cf087ad-0f1389</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="47" meta:object-count="0"/></office:meta>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:initial-creator>Thomas Schubert</meta:initial-creator><meta:creation-date>2013-01-27T15:36:19.51</meta:creation-date><dc:date>2013-01-27T16:00:57.34</dc:date><dc:creator>Thomas Schubert</dc:creator><meta:editing-duration>PT20M27S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/4.1.4.2$Windows_x86 LibreOffice_project/0a0440ccc0227ad9829de5f46be37cfb6edcf72</meta:generator><meta:document-statistic meta:table-count="2" meta:cell-count="99" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">53495</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">25027</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">56994</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">26724</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
-      <config:config-item-map-entry config:name="GPL v3.0">
-       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">9</config:config-item>
+      <config:config-item-map-entry config:name="EPL v1.0">
+       <config:config-item config:name="CursorPositionX" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">1</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">0</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">1</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="GPL v3.0">
+       <config:config-item config:name="CursorPositionX" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">1</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">7</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -57,7 +74,7 @@
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">zCL+/0hQIERlc2tqZXQgRjMwMCBTZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASFAgRGVza2pldCBGMzAwIFNlcmllcwAAAAAAAAAAAAAWAAEA7iEAAAAAAAAEAAhSAAAEdAAAM1ROVwYASABQACAARABlAHMAawBqAGUAdAAgAEYAMwAwADAAIABTAGUAcgBpAGUAcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAbcAAwhQ++ABwEACQCaCzQIZAABAA8AWAICAAEAWAICAAEAQQA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAgAAAAMCAAD/////AAAAAAAAAAAAAAAAAAAAAERJTlUiAIAGvAhQGE4E92kAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAgAYAAFNNVEoAAAAAEABwBkgAUAAgAEQAZQBzAGsAagBlAHQAIABGADMAMAAwACAAUwBlAHIAaQBlAHMAAABJbnB1dEJpbgBGT1JNU09VUkNFAFJFU0RMTABVbmlyZXNETEwASFBQcmVBbmFseXNpcwBGYWxzZQBNU1ByZUFuYWx5c2lzAEZhbHNlAEhQUHJpbnRQcmV2aWV3AEZhbHNlAEhQT3ZlclNwcmF5T3B0aW9uAEF1dG9tYXRpYwBIUE92ZXJTcHJheQAxMDAASFBCb3JkZXJMZXNzUGhvdG8ARmFsc2UASFBCb3JkZXJMZXNzQXV0b0ZpdABGYWxzZQBIUE91dHB1dE9yZGVyUmV2ZXJzZQBUcnVlAEpvYlVJAFRydWUAUGFwZXJTaXplAEE0AE9yaWVudGF0aW9uAFBPUlRSQUlUAEhQTlVzZURpZmZGaXJzdFBhZ2VDaG9pY2UAVHJ1ZQBIUFByaW50SW5HcmF5U2NhbGUARmFsc2UAUHJpbnRRdWFsaXR5AE5vcm1hbABQcmludFF1YWxpdHlHcm91cABQUUdyb3VwXzIASFBDb2xvck1vZGUAQ09MT1JfTU9ERQBIUFBETFR5cGUAUERMX1BDTDMASFBYTUxGaWxlVXNlZABocG9mMzAwdC54bWwASFBQb3N0ZXJQcmludGluZwBGYWxzZQBIUFBvc3RlclByaW50aW5nT3B0aW9uAFBPU1RFUl8yAEhQTWVkaWFUeXBlVHJlZXZpZXdQb3B1cABUcnVlAENvbG9yTW9kZQBDb2xvcjI0AFRleHRBc0JsYWNrAEZhbHNlAE1lZGlhVHlwZQBQTEFJTgBSZXNvbHV0aW9uADYwMGRwaQBQUURQSQBJbnN0YWxsZWQASFBNaXJyb3JQcmludABGYWxzZQBIUFByaW50T25Cb3RoU2lkZXNNYW51YWxseQBGYWxzZQBIUE1hbnVhbER1cGxleERpYWxvZ0l0ZW1zAEluc3RydWN0aW9uSURfMDFfRkFDRVVQLU5PUk9UQVRFAEhQTWFudWFsRHVwbGV4UGFnZVJvdGF0ZQBVc2VyUm90YXRlAEhQTWFudWFsRmVlZE9yaWVudGF0aW9uAEZBQ0VVUABIUFNwZWVkTWVjaABGYXN0RHJhZnQASFBPdXRwdXRCaW5PcmllbnRhdGlvbgBGQUNFVVAASFBNYW51YWxEdXBsZXhEaWFsb2dNb2RlbABNb2RhbABIUE1hbnVhbER1cGxleFBhZ2VPcmRlcgBPZGRQYWdlc0ZpcnN0AEhQTWFwTWFudWFsRmVlZFRvVHJheTEARmFsc2UAUFNBbGlnbm1lbnRGaWxlAEhQWmxBbGhuAFBTU2VydmljZXNPcHRpb24ASFBTZXJ2aWNlRmlsZU5hbWVFbmQASFBDb25zdW1lckN1c3RvbVBhcGVyAEhQQ3VzdG9tAEhQQm9ybk9uRGF0ZQBIUEJPRABIUElucHV0Q29sb3JTcGFjZQBDT0xPUlNNQVJUAEpvYlVJTmV0d29yawBUcnVlAEhQRHJpdmVyRGF0YQBEcml2ZXJEYXRhAEVTUFJJVFN1cHBvcnRlZABUcnVlAEhQUkVTRExMTmFtZQBIUEZSRVM1MABIUFJlZEV5ZVJlZHVjdGlvbgBPZmYASFBEaWdpdGFsSW1hZ2luZwBIUEhvbWVQcmludGluZwBIUFNtYXJ0Rm9jdXMAT2ZmAEhQQ29udHJhc3QAT24ASFBEaWdpdGFsRmxhc2gAT24ASFBTaGFycG5lc3MAT24ASFBTbW9vdGhpbmcAT24ASFBKcGVnUG5nUGFzc3Rocm91Z2gAVHJ1ZQBIYWxmdG9uZQBIVF9QQVRTSVpFX0RFRkFVTFQASFBIYWdha2lQcmludGluZwBUUlVFAEhQSFRETExOYW1lAEhQRklHbGhuAEhQTUhETExOYW1lAEhQRklNRTUwAEhQQ1JEQ29tbWFuZABUcnVlAEhQU2VuZFVuaXRNZWFzdXJlQ29tbWFuZABUUlVFAEhQUGFwZXJTaXplVHJlZXZpZXdQb3B1cABNZXRyaWMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQGAAASVVQSBAAEQAAAAAAAgAAAAQAAAABAAAAAAAAAAAAAAADAAAAAAAAAAEAAAABAAEAZAABAAEAAgACAAAAAQAAAAIAAABBADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAJoLNAgAAP///////////////wEAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAWwBrAGUAaQBuAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABbAGsAZQBpAG4AXQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAHIAaQBhAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYAAABQAAAAAAAAAAEAAAAAAAAAwMDAAAAAAADAwMAAAAAAAAAAAAAAAAAAAAAAAAkAAAABAAAAZAAAAAAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA8AAAABAQAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAFMAQwBIAFUAQgBFAFIAVABUADAAMAA2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AEEAdQB0AG8AbQBhAHQAaQBzAGMAaAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAPAAAAAwIAAAAAAAAPAAAAAwIAAAAAAAACAAAAAAAAAAAAAAAPAAAAAwIAAA8AAAADAgAAAAAAAAAAAAAAAAAAUrsNADQIAAA0CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCAAADAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAABBAGwAbABnAGUAbQBlAGkAbgBlAHMAIABuAG8AcgBtAGEAbABlAHMAIABEAHIAdQBjAGsAZQBuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAEAAABMAGkAYgByAGUATwBmAGYAaQBjAGUAIAAzAC4ANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAUwB0AGEAbgBkAGEAcgBkAC0ARAByAHUAYwBrAGUAaQBuAHMAdABlAGwAbAB1AG4AZwBlAG4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAABCDAAAeAAAAEIMAAAAAAAAAAAAAAAAAAAAAAAAdAAAAEkMAAB7AAAAQwwAAAAAAAAAAAAAAAAAAAAAAAB6AAAARQwAAHUAAABEDAAAAgAAAJ8QAABzb2ZmaWNlLmJpbgAAAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAA8AAAADAgAADwAAAAMCAAAPAAAAAwIAAA8AAAADAgAAAAAAAAAAAAAAAAAAAwIAAAAAAAAAAAAAAAAAAAAAAABDADoAXABQAHIAbwBnAHIAYQBtACAARgBpAGwAZQBzAFwATABpAGIAcgBlAE8AZgBmAGkAYwBlACAAMwAuADYAXABwAHIAbwBnAHIAYQBtAFwAcwBvAGYAZgBpAGMAZQAuAGIAaQBuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">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</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">de</config:config-item>
@@ -69,11 +86,12 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
    <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">HP Deskjet F300 Series</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HP Deskjet 3050A J611 series (Netzwerk)</config:config-item>
    <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
@@ -127,7 +145,7 @@
    <style:map style:condition="value()&gt;=0" style:apply-style-name="N107P0"/>
   </number:currency-style>
   <style:style style:name="Default" style:family="table-cell">
-   <style:text-properties style:font-name-asian="Microsoft YaHei" style:font-name-complex="Mangal"/>
+   <style:text-properties style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Mangal" style:font-family-complex="Mangal" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
   </style:style>
   <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
@@ -144,7 +162,7 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="6.639cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="6.999cm"/>
   </style:style>
   <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.751cm"/>
@@ -153,13 +171,16 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="1.194cm"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.078cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.637cm"/>
   </style:style>
   <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.637cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.078cm"/>
   </style:style>
   <style:style style:name="co6" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="6.639cm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="7.345cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
@@ -171,7 +192,7 @@
    <style:table-row-properties style:row-height="0.894cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="0.935cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="1.737cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
@@ -195,6 +216,10 @@
   <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border="0.06pt solid #000000"/>
   </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
    <style:header-style>
@@ -217,6 +242,12 @@
     </style:header-footer-properties>
    </style:footer-style>
   </style:page-layout>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:color="#ff0000" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
  </office:automatic-styles>
  <office:master-styles>
   <style:master-page style:name="Default" style:page-layout-name="pm1">
@@ -235,7 +266,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2013-01-27">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="0000-00-00T17:15:12.04">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2014-01-03">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="0000-00-00T21:35:55.497000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -248,7 +279,7 @@
  <office:body>
   <office:spreadsheet>
    <table:content-validations>
-    <table:content-validation table:name="val1" table:condition="of:cell-content-is-in-list(&quot;?&quot;;&quot;x&quot;;&quot;n/a&quot;;&quot;1&quot;;&quot;2&quot;;&quot;3&quot;;&quot;4&quot;;&quot;5&quot;;&quot;&quot;;&quot;&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="&apos;GPL v3.0&apos;.D2">
+    <table:content-validation table:name="val1" table:condition="of:cell-content-is-in-list(&quot;?&quot;;&quot;x&quot;;&quot;n/a&quot;;&quot;1&quot;;&quot;2&quot;;&quot;3&quot;;&quot;4&quot;;&quot;5&quot;;&quot;&quot;;&quot;&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="&apos;GPL v3.0&apos;.E2">
      <table:help-message table:title="Relation" table:display="false">
       <text:p>Die Eingabewerte besitzen folgende Bedeutung:</text:p>
       <text:p>? = TODO, noch ungeklärt</text:p>
@@ -289,279 +320,607 @@
    <table:table table:name="GPL v3.0" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce3"/>
-    <table:table-column table:style-name="co2" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="7" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="7" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:number-columns-repeated="1002" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="999" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce1"/>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>verboten</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>enthalten</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>nur mit Namensnennung erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Kopie der Lizenz muss beiliegen</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
-      <text:p>nur unter gleicher Lizenz erlaubt</text:p>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>unter <text:span text:style-name="T1">gleicher</text:span> Lizenz erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
-      <text:p>es gilt der Ausschluß </text:p>
-      <text:p>von Schadensersatz durch die Urheber</text:p>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>unter <text:span text:style-name="T1">anderer</text:span> Lizenz erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
-      <text:p>nur unter Erhaltung des </text:p>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nur durch die herausgebende juristische </text:p>
+      <text:p>Person (Agreement Steward) möglich.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Keine Garantien für Nutzen und Benutzbarkeit.</text:p>
+      <text:p>Keine Haftung für Schäden.</text:p>
+      <text:p>(<text:span text:style-name="T2">In DE evtl. problematisch</text:span>).</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nur unter Erhaltung des </text:p>
       <text:p>Copyright Hinweises erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>keine Abhängigkeit zu proprietären Kode erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>keine Einbindung in </text:p>
       <text:p>proprietären Kode möglich</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>statisches und dynamisches Linken </text:p>
       <text:p>von Kode mit proprietärer Software möglich. </text:p>
       <text:p>Eigen-Entwicklungen dürfen als proprietäre </text:p>
       <text:p>Software weitergegeben werden</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Keine Vorgaben. </text:p>
       <text:p>Der gesamte Kode darf auch als proprietäre </text:p>
       <text:p>Software weitergegeben werden</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung für beliebige Zwecke erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung für kommerzielle Zwecke erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung für nicht-kommerzielle Zwecke erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung in beliebigen Bereichen erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung an Schulen erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung in Behörden erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Militärische Nutzung erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung in Sicherheitsbereichen erlaubt</text:p>
       <text:p>(Kernkraftwerke, Flugzeuge, etc.)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung in allen Ländern erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" office:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nutzung außerhalb der USA erlaubt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="1002"/>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="999"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Verlinken</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="33"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Ableiten neuer Software</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="4"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="28"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="30"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Einbetten</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="33"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Vermischen / Kombination mit </text:p>
       <text:p>anderer Software</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="8"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="24"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Quellkode studieren um Funktion</text:p>
       <text:p>zu verstehen</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="31"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="34"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Disassemblieren</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="31"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="34"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Weitergabe</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="26"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Kopieren</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="26"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Verändern des Lizenztextes</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="32"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="35"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Verändern der Quellen</text:p>
-      <text:p>oder Neuerstellung </text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="4"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="25"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce2" office:value-type="string">
-      <text:p>Ausführung / Nutzung / Verwendung</text:p>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Neuerstellung von</text:p>
+      <text:p>Quellen, Modulen, Dokumenten</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="30"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Ausführung / Nutzung / Verwendung</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="18"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2" table:number-rows-repeated="25">
-     <table:table-cell table:style-name="ce2"/>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Regelungen der Lizenz die gegen höheres</text:p>
+      <text:p>Recht verstossen werden ungültig ohne </text:p>
+      <text:p>Auswirkung auf die Gültigkeit der </text:p>
+      <text:p>anderen Regeln.(Salvatorische Klausel)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>?</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="33"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="24">
+     <table:table-cell table:style-name="ce2"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro2" table:number-rows-repeated="99">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="33"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
      <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
-     <table:table-cell table:number-columns-repeated="967"/>
+     <table:table-cell table:number-columns-repeated="964"/>
     </table:table-row>
     <table:table-row table:style-name="ro2" table:number-rows-repeated="61">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="33"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
      <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
-     <table:table-cell table:number-columns-repeated="979"/>
+     <table:table-cell table:number-columns-repeated="976"/>
     </table:table-row>
     <table:table-row table:style-name="ro2" table:number-rows-repeated="170">
      <table:table-cell/>
-     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="44"/>
-     <table:table-cell table:number-columns-repeated="979"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="47"/>
+     <table:table-cell table:number-columns-repeated="976"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2" table:number-rows-repeated="1048208">
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="1048207">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="EPL v1.0" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce3"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="999" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>verboten</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>enthalten</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>nur mit Namensnennung erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Kopie der Lizenz muss beiliegen</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>unter <text:span text:style-name="T1">gleicher</text:span> Lizenz erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>unter <text:span text:style-name="T1">anderer</text:span> Lizenz erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nur durch die herausgebende juristische </text:p>
+      <text:p>Person (Agreement Steward) möglich.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Keine Garantien für Nutzen und Benutzbarkeit.</text:p>
+      <text:p>Keine Haftung für Schäden.</text:p>
+      <text:p>(<text:span text:style-name="T2">In DE evtl. problematisch</text:span>).</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nur unter Erhaltung des </text:p>
+      <text:p>Copyright Hinweises erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>keine Abhängigkeit zu proprietären Kode erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>keine Einbindung in </text:p>
+      <text:p>proprietären Kode möglich</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>statisches und dynamisches Linken </text:p>
+      <text:p>von Kode mit proprietärer Software möglich. </text:p>
+      <text:p>Eigen-Entwicklungen dürfen als proprietäre </text:p>
+      <text:p>Software weitergegeben werden</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Keine Vorgaben. </text:p>
+      <text:p>Der gesamte Kode darf auch als proprietäre </text:p>
+      <text:p>Software weitergegeben werden</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung für beliebige Zwecke erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung für kommerzielle Zwecke erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung für nicht-kommerzielle Zwecke erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung in beliebigen Bereichen erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung an Schulen erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung in Behörden erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Militärische Nutzung erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung in Sicherheitsbereichen erlaubt</text:p>
+      <text:p>(Kernkraftwerke, Flugzeuge, etc.)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung in allen Ländern erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Nutzung außerhalb der USA erlaubt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="999"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Verlinken</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Ableiten neuer Software</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Einbetten</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Vermischen / Kombination mit </text:p>
+      <text:p>anderer Software</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="34"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Quellkode studieren um Funktion</text:p>
+      <text:p>zu verstehen</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Disassemblieren</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Weitergabe</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Kopieren</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Verändern des Lizenztextes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="28"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Verändern der Quellen</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="28"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Neuerstellung von</text:p>
+      <text:p>Quellen, Modulen, Dokumenten</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce6" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="28"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Ausführung / Nutzung / Verwendung</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="27"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Regelungen der Lizenz die gegen höheres</text:p>
+      <text:p>Recht verstossen werden ungültig ohne </text:p>
+      <text:p>Auswirkung auf die Gültigkeit der </text:p>
+      <text:p>anderen Regeln.(Salvatorische Klausel)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>x</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="33"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="24">
+     <table:table-cell table:style-name="ce2"/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="99">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="12"/>
+     <table:table-cell table:number-columns-repeated="964"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="61">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" table:number-columns-repeated="36"/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="11"/>
+     <table:table-cell table:number-columns-repeated="976"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="170">
+     <table:table-cell/>
+     <table:table-cell table:content-validation-name="val1" table:number-columns-repeated="47"/>
+     <table:table-cell table:number-columns-repeated="976"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="1048207">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -570,7 +929,7 @@
    </table:table>
    <table:named-expressions/>
    <table:database-ranges>
-    <table:database-range table:name="__Anonymous_DB__1" table:target-range-address="&apos;GPL v3.0&apos;.A1:&apos;GPL v3.0&apos;.F11" table:contains-header="false" table:orientation="column"/>
+    <table:database-range table:name="__Anonymous_DB__1" table:target-range-address="&apos;GPL v3.0&apos;.A1:&apos;GPL v3.0&apos;.G11" table:contains-header="false" table:orientation="column"/>
    </table:database-ranges>
   </office:spreadsheet>
  </office:body>
