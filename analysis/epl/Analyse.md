@@ -32,6 +32,9 @@ Generelle Nutzung, Vervielfältigung und Verteilung
 Zur Nutzung, Vervielfältigung und Verteilung des beiliegenden Programms 
 muss vorher diese Lizenz akzeptiert werden.
 
+Contribution
+------------
+
 > "Contribution" means:
 >
 > a) in the case of the initial Contributor, the initial code and documentation
@@ -61,11 +64,15 @@ muss vorher diese Lizenz akzeptiert werden.
 
 Ein Contributor ist ein Beitragender welcher einen Beitrag zum Programm leistet.
 Ein Beitrag kann sein: 
-a) die initiale Erstellung von Kode oder Dokumentation.
-b) die Veränderung des Programms oder das Erweitern des Programms
 
-Als Beiträge gelten nicht 
+a) Die initiale Erstellung von Kode oder Dokumentation.
+
+b) Die Veränderung des Programms oder das Erweitern des Programms.
+
+Als Beiträge gelten nicht:
+
 i) Separate Module des Programms die unter eigener Lizenzierung stehen
+
 ii) Nicht vom Programm abgeleitete Werke
 
 Contributor ist jede natürliche oder juristische Person die das Programm vertreibt.
