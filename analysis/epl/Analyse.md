@@ -1,7 +1,26 @@
-Rechtliche Aspekte der Eclipse Public License - v 1.0
-=====================================================
+EPL v1.0
+========
 
-Die EPL gilt als Nachfolger der CPL. Daher wird die CPL als deprecated geführt.
+Historie
+--------
+
+Die EPL gilt als Nachfolger der CPL. Daher wird die CPL als deprecated geführt [1].
+
+[1] sinngemäß nach http://de.wikipedia.org/wiki/Eclipse_Public_License
+
+Eigenschaften
+-------------
+
+Eigenschaften sind:
+
+* Erlaubt Freie Nutzung [1].
+* Erlaubt Weiterverarbeitung [1].
+* Erlaubt Veränderung [1].
+* Sie ist inkompatibel zur GPL [1].
+* Neue Module dürfen unter anderen Lizenzen stehen [1].
+* Wird ein unter EPL stehendes Modul verändert, muss es unter EPL bleiben [1].
+
+[1] sinngemäß nach http://de.wikipedia.org/wiki/Eclipse_Public_License
 
 Generelle Nutzung, Vervielfältigung und Verteilung 
 --------------------------------------------------
@@ -13,10 +32,7 @@ Generelle Nutzung, Vervielfältigung und Verteilung
 Zur Nutzung, Vervielfältigung und Verteilung des beiliegenden Programms 
 muss vorher diese Lizenz akzeptiert werden.
 
-> Contribution / Beitrag
-> ------------------------
->
-> Contribution" means:
+> "Contribution" means:
 >
 > a) in the case of the initial Contributor, the initial code and documentation
 >   distributed under this Agreement, and
