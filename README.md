@@ -18,6 +18,7 @@ Literaturhinweise:
 * [ENG2012](http://www.bibsonomy.org/bibtex/23ad38e2fbc524230344bc7ea48979620/funthomas424242) (Artikel)
 * [MV_LIZ](http://www.cheatography.com/funthomas424242/cheat-sheets/lizenverwaltung-mit-maven/pdf/) (Software)
 * [LIZVER](http://www.bibsonomy.org/bibtex/2d7fa68b5ddaa4bb2318c3da9e38cf4cb/funthomas424242) (Artikel zur Software)
+* [TOSSCA](http://www.tossca.org/) TOSSCA e.V. (Verein zur Herauslösung von Kode als Open Source)
 
 Aktueller Arbeitsstand
 ----------------------
