@@ -19,6 +19,7 @@ Literaturhinweise:
 * [MV_LIZ](http://www.cheatography.com/funthomas424242/cheat-sheets/lizenverwaltung-mit-maven/) (Software)
 * [LIZVER](http://www.bibsonomy.org/bibtex/2d7fa68b5ddaa4bb2318c3da9e38cf4cb/funthomas424242) (Artikel zur Software)
 * [TOSSCA](http://www.tossca.org/) TOSSCA e.V. (Verein zur Herauslösung von Kode als Open Source)
+* [Recht] (http://www.bibsonomy.org/user/funthomas424242/Recht) Artikel zu Gerichtsurteilen
 
 Aktueller Arbeitsstand
 ----------------------
